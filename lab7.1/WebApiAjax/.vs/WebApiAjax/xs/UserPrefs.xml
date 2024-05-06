@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A5F20A93-E1BB-4E2F-86C3-6A7A6EF6A8B8}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebApiAjax PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApiAjax/wwwroot/index.html">
+    <Files>
+      <File FileName="WebApiAjax/CalcResult.cs" Line="9" Column="42" />
+      <File FileName="WebApiAjax/Program.cs" Line="38" Column="22" />
+      <File FileName="WebApiAjax/wwwroot/index.html" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApiAjax" expanded="True">
+            <Node name="WebApiAjax" expanded="True" selected="True">
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
